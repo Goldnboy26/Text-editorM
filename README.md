@@ -10,6 +10,8 @@
 
 The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use.  The integrated service worker and Cache API's ensure that the application will remain fully functional even without and active internet connection.  This application allows the user to access visited pages even if the application is offline.
 
+<img width="1440" alt="Screen Shot 2022-11-02 at 9 36 30 PM" src="https://user-images.githubusercontent.com/106297412/199648678-8aea4552-e4dc-4afb-b42c-375357a62a16.png">
+
 [GitHub-Repo](https://github.com/Goldnboy26/text-editorm) 
 
 🚀The application has been deployed to Heroku and the URL of the deployed application is:-
@@ -63,7 +65,7 @@ THEN I find that the content in the text editor has been retrieved from our Inde
 
 This project is licensed under the terms of the MIT license.
 
-##QUESTIONS OR CONSERNS
+## QUESTIONS OR CONSERNS
 
 * [GITHUB](https://github.com/Goldnboy26/text-editorm)
 * [EMAIL](enrique.monje1994@yahoo.com)
